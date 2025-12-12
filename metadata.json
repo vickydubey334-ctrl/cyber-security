@@ -1,0 +1,5 @@
+{
+  "name": "IoT Shield",
+  "description": "A secure, AI-powered dashboard for managing IoT firmware updates, enforcing secure boot compliance, and monitoring fleet health with real-time alerts.",
+  "requestFramePermissions": []
+}
